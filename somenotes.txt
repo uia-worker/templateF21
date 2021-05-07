@@ -1,0 +1,19 @@
+IS-104:
+- can use different tools (UXpin, Figma etc.)
+- TAs are familiar with Figma
+
+IS-114:
+- we start with group work / group contract
+- second introduce the system development project administration tools (can do it though Github)
+   - planning 
+   - status of different tasks
+   - sharing with each other
+- we start with widgets (HTML/CSS/JS) in september (3rd og 4th week of the semester)
+- SystemUsabilityScale (SUS)
+- for databases we can use som very simple open-source databases (we can instruct TAs in that); there is also some database possibilities in HTML 5 (local storage)
+
+
+Coordination 
+- spreadsheet for deliverables
+- discuss later in June about deliverables
+- 
